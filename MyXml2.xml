@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+	<Product>
+		<pid>1</pid>
+		<pname>delllaptop</pname>
+		<price>8000</price>
+		<dom>09-07-14</dom>
+	</Product>
+	<Product>
+		<pid>2</pid>
+		<pname>hplaptop</pname>
+		<price>55000</price>
+		<dom>10-07-14</dom>
+	</Product>
+	<Product>
+		<pid>3</pid>
+		<pname>acerlaptop</pname>
+		<price>70000</price>
+		<dom>12-07-14</dom>
+	</Product>
+	<Product>
+		<pid>4</pid>
+		<pname>lenovo</pname>
+		<price>30000</price>
+		<dom>07-04-17</dom>
+	</Product>
+	<Product>
+		<pid>5</pid>
+		<pname>ASUS</pname>
+		<price>50000</price>
+		<dom>25-04-15</dom>
+	</Product>
+	<Product>
+		<pid>6</pid>
+		<pname>RDP ThinBook</pname>
+		<price>19000</price>
+		<dom>07-04-15</dom>
+	</Product>
+	<Product>
+		<pid>7</pid>
+		<pname>MacBook</pname>
+		<price>110000</price>
+		<dom>12-01-17</dom>
+	</Product>
+	<Product>
+		<pid>8</pid>
+		<pname>Microsoft Surface</pname>
+		<price>100000</price>
+		<dom>07-04-15</dom>
+	</Product>
+</Products>
